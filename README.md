@@ -1,2 +1,3 @@
-# DatawhaleLearning
-练习Datawhale组队学习。
+﻿# Learning
+
+线下组队学习资料沉淀。
